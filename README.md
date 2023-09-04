@@ -38,7 +38,7 @@
 Для обучения использовалась видеокарта Nvidia T4 с Google Colab. \
 Первой итерацией решил оставить параметры скрипта из исходного ноутбука неизменными, для промпта был выбран 1road96 style. Результаты оказались плохими и модель переобучилась. \
 a beautiful landscape of lake and mountains, 1road96 style \
-![Alt text](media/1st_iter.png) 
+![Alt text](media/1st_iter.png) \
 Для второй итерации было принято решение использовать новый подход и использовать другой скрипт для обучения. В репозитории cloneofsimo/lora есть скрипт, позволяющий обучить LoRA PTI, подробнее об этом процессе написал в ноутбуке.
 ### Примеры полученных изображений (non cherry picked. DreamShaper model!)
 A photo of a car in style &lt;s1>&lt;s2> \
